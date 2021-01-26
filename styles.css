@@ -1,0 +1,39 @@
+.top{
+    padding: 10px;
+    background-color: white;
+    font-family: sans-serif;
+    right: 1px;
+    
+
+}
+
+body{
+    background-color: lightskyblue;
+}
+.middle{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    text-align: center;
+    background-color: white;
+    font-family: sans-serif;
+    position: absolute;
+    height: 330px;
+    width: 300px;
+    bottom: 400px;
+    right: 320px;
+
+}
+#submit{
+    background-color: rgb(51, 51, 224);
+    font-family: sans-serif;
+    text-align: center;
+    font-style: bold;
+    width: 179px;
+}
+#amazon{
+    font-family: "My Custom Font"; font-weight: 900; content: "\f358";
+}
+#top{
+    color: blue;
+}
